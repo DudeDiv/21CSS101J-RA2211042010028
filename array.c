@@ -1,5 +1,6 @@
 #include<stdio.h>
 int main(){
+    printf("Registration number : RA2211042010028\n");
 int MyNumbers[]={25, 50, 75, 100};
 printf("%d\n", MyNumbers[0]);
 
