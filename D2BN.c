@@ -3,6 +3,7 @@
 #include<stdio.h>
 #include<math.h>
 int main(){
+  printf("Registration number : RA2211042010028\n");
 int x;
 printf("enter a number :\n", x);
 scanf("%d", &x);
