@@ -1,5 +1,6 @@
 #include<stdio.h>
 int main(){
+    printf("Registration number : RA2211042010028\n");
 int i;
 for(i=0; i<10; i++){
 if(i==4){
