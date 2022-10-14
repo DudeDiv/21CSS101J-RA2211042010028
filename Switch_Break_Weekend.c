@@ -1,6 +1,7 @@
 #include<stdio.h>
 //Weekend Day Selector
 int main(){
+    printf("Registration number : RA2211042010028\n");
     int day;
     printf("What's the day number of weekend? Type here :\n", day);
     scanf("%d", &day);
