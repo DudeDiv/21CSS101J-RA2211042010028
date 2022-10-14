@@ -3,6 +3,7 @@ void myFunction(char name[]){
 printf("Hello %s.\n", name);
 }
 int main(){
+  printf("Registration number : RA2211042010028\n");
 myFunction("Divyanshu");
 myFunction("Cevin R Christo");
 myFunction("Alok Zamn");
