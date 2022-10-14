@@ -1,5 +1,6 @@
 #include<stdio.h>
 int main(){
+  printf("Registration number : RA2211042010028\n");
 printf("~TRIANGLE:\n");
 printf("    #\n");
 printf("   ###\n");
