@@ -3,6 +3,7 @@ void MYF(char names[], int age){
 printf("Hello %s. You are %d years old and rusting :p\n", names, age);
 }
 int main(){
+    printf("Registration number : RA2211042010028\n");
     MYF("Divyanshu", 19);
     MYF("Cevin R Christo", 18);
     MYF("Alok Zamn", 17);
