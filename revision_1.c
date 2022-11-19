@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main()
 {
+  printf("Registration number : RA2211042010028\n");
 int m1, m2, m3, m4, m5, per;
 printf("Enter marks in five subjects");
 scanf ("%d %d %d %d %d", &m1, &m2, &m3, &m4, &m5);
