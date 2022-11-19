@@ -2,6 +2,7 @@
 //Insurance of driver - using logical operators
 int main()
 {
+  printf("Registration number : RA2211042010028\n");
 char sex, ms;
 int age;
 printf ("Enter age, sex, marital status");
