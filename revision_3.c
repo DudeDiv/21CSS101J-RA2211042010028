@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main()
 {
+  printf("Registration number : RA2211042010028\n");
 char g;
 int yos, qual, sal = 0;
 printf ("Enter Gender, Years of Service and Qualifications (0 = G, 1 = PG):\n");
