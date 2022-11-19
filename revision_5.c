@@ -2,6 +2,7 @@
 /* Check type of character entered from the keyboard */
 int main()
 {
+  printf("Registration number : RA2211042010028\n");
 char ch;
 printf ("\nEnter a character from the keyboard:");
 scanf ("%c", &ch);
